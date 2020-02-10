@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=MySpace/src&lt;com.board.dao{BoardDao.java[BoardDao" modifiers="513" timestamp="1580449145261"/>
+<typeInfo handle="=MySpace/src&lt;com.board.biz{BoardBiz.java[BoardBiz" modifiers="513" timestamp="1579757835022"/>
+<typeInfo handle="=MySpace/src&lt;com.login.dao{MemberDao.java[MemberDao" modifiers="513" timestamp="1579705897867"/>
+<typeInfo handle="=MySpace/src&lt;com.login.biz{MemberBiz.java[MemberBiz" modifiers="513" timestamp="1579705926506"/>
+<typeInfo handle="=MySpace/src&lt;com.paging.dao{PagingDao.java[PagingDao" modifiers="513" timestamp="1579496966615"/>
+<typeInfo handle="=MySpace/src&lt;com.paging.biz{PagingBiz.java[PagingBiz" modifiers="513" timestamp="1579498562164"/>
+<typeInfo handle="=PagingPractice/src&lt;com.paging.dao{PagingDao.java[PagingDao" modifiers="513" timestamp="1580473945461"/>
+<typeInfo handle="=PagingPractice/src&lt;com.paging.biz{PagingBiz.java[PagingBiz" modifiers="513" timestamp="1580446984856"/>
+</typeInfoHistroy>
